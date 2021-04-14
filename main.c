@@ -1,4 +1,6 @@
-/* This is an example */
+/* 
+ * This is an example
+ */
 
 void printHello(void) {
     printf("Hello World!");
