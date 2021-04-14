@@ -1,4 +1,4 @@
-/* main.c */
+/* This is an example */
 
 void printHello(void) {
     printf("Hello World!");
