@@ -1,2 +1,1 @@
-# code-review-test
-Simple repository for testing code review
+# Thie is a simple repository for testing the code review process
