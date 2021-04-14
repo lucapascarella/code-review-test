@@ -1,5 +1,9 @@
 /* main.c */
 
-int main(int argc, char *argv[]) {
+void printHello(void) {
     printf("Hello World!");
+}
+
+int main(int argc, char *argv[]) {
+    printHello();
 }
