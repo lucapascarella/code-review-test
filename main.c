@@ -10,8 +10,4 @@ int main(int argc, char *argv[]) {
     printHello();
 }
 
-// Add some comments
-
-
-
 // hello
