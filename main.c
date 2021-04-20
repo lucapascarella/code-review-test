@@ -9,5 +9,3 @@ void printHello(void) {
 int main(int argc, char *argv[]) {
     printHello();
 }
-
-// Add some comments
